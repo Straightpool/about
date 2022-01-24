@@ -1,2 +1,2 @@
 # straightpool.github.io
-STR8 Pool Website
+STR8 Pool Website Redirect
